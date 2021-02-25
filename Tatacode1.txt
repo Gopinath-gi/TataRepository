@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-print c ... 
-=======
-print c ... updated by Tatadeveloper 2
->>>>>>> origin/TataDeveloper2
